@@ -11,7 +11,7 @@
 
 @interface TestViewController : UIViewController {
 @private
-    
+    UIProgressView *_progress;
 }
 
 @end
